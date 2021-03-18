@@ -16,3 +16,5 @@ my collection of unity editor extensions
 
 - replace gameobject with prefab
 https://unity3d.college/2017/09/07/replace-gameobjects-or-prefabs-with-another-prefab/
+
+# git clone --recursive 
